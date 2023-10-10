@@ -14,7 +14,7 @@
 	<name>blog</name>
 	<description>My First Blog Project</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<!-- 추가 라이브러리 시작 -->
